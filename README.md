@@ -1,4 +1,4 @@
-# Playground-No.1
+# LearningPlayground
 First swift playground
 
 
